@@ -1,0 +1,26 @@
+// Place all the styles related to the creatures controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+	font-family: ‘Ubuntu’, Arial, sans-serif; font-weight: 400;
+	background-color: seagreen;
+	background: image-url(monsterswamp);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+img {
+	border-radius: 5%;
+}
+
+h1,
+.main-content {
+	color: white;
+}
+
+.main-description {
+	color: black;
+  	background:#7f7f7f;
+  	background:rgba(255,255,255,0.5);
+}
